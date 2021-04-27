@@ -61,7 +61,7 @@ mix test
 
 ### Integration tests
 
-Although each webdriver implementation should be the same in theroy, it's good to double-check that this library actually works. The following webdriver implementations are supported via the test suite:
+Although each webdriver implementation should be the same in theory, it's good to double-check that this library actually works. The following webdriver implementations are supported via the test suite:
 
 * `chromedriver`
 * `phantomjs`
